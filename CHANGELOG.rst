@@ -2,8 +2,8 @@
 Changelog for package rqt_pr2_dashboard
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.1 (2024-06-26)
+------------------
 * Import setup from setuptools instead of distutils.core `#27 <https://github.com/PR2/rqt_pr2_dashboard/issues/27>`_
 * updated package.xml to format version 3
 * show console and monitor by default (`#25 <https://github.com/PR2/rqt_pr2_dashboard/issues/25>`_)
